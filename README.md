@@ -2,10 +2,10 @@
 
 | Name Of The Project        | Main Structure           | 
 | ------------- |:-------------:| 
-| Hospital Managment System      | Linked List | 
+| Hospital Management System      | Linked List | 
 | Words BST       | Binary Search Tree      |   
 
-## *1-) Hospital Managment System*
+## *1-) Hospital Management System*
 ![This is an image](https://media.licdn.com/dms/image/C5612AQHXpElnKlgFTA/article-cover_image-shrink_600_2000/0/1631271495780?e=2147483647&v=beta&t=G-v2giaPyk2MRBprIyIvJ5voiKmuq89bEH9F-MhPYak)
 ### You are able to do:
 
